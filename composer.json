@@ -1,0 +1,20 @@
+{
+  "name": "purt09/interkassa",
+  "description": "sdk for interkassa",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexande Purtov",
+      "email": "alexpurtv@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "purt09\\interkassa\\": ""
+    }
+  }
+}
