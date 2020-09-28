@@ -2,7 +2,7 @@
 
 Это SDK для interkassa оптимизированная под стандарты psr-4;
 
-Основа не изменялась и взята от [сюда](https://github.com/kpobococ/ik-php)
+Основа не изменялась и взята [отсюда](https://github.com/kpobococ/ik-php)
 
 
 
@@ -18,7 +18,7 @@ Composer
 ```php
 {
     "require": {
-        "purtv09/interkassa": "dev-master"
+        "purt09/interkassa": "*"
     },
 }
 ```

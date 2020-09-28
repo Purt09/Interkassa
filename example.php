@@ -1,5 +1,9 @@
 <?php
-include 'Interkassa.php';
+
+use purt09\interkassa\Interkassa;
+use purt09\interkassa\Interkassa\InterkassaException;
+use purt09\interkassa\Interkassa\InterkassaShop;
+
 Interkassa::register();
 
 $shop_id    = '52e0105ebf4efc070d704c1d';
