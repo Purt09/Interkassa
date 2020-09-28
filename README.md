@@ -18,7 +18,7 @@ Composer
 ```php
 {
     "require": {
-        "purt09/interkassa": "*"
+        "purt09/interkassa": "@dev"
     },
 }
 ```
